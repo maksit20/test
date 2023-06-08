@@ -1,0 +1,2 @@
+Merhaba,
+Bu benim ilk git-github deneme dosyamdir.
